@@ -1,0 +1,5 @@
+tf/iam/terraform.tfstate
+tf/iam/terraform.tfstate.1607089638.backup
+tf/iam/terraform.tfstate.backup
+tf/iam/.terraform/plugins/selections.json
+tf/iam/.terraform/plugins/registry.terraform.io/hashicorp/aws/3.19.0/linux_amd64/terraform-provider-aws_v3.19.0_x5
