@@ -14,7 +14,7 @@ provider "aws" {
 
 
 resource "aws_iam_role" "test_role" {
-  name = "dev_iam_role"
+  name = "dev_iam_role_for_tf_test"
 
   assume_role_policy = <<EOF
 {
