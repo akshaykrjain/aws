@@ -1,0 +1,13 @@
+template_path: magento.yaml
+parameters:
+  AdminUserName: akshay
+  AdminEmail: akshay
+  AccessCIDR: 0.0.0.0/0
+  AdminPassword: Yb987@876sdj))&ZZ
+  KeyPairName: akshay
+  DBMasterUserPassword: Yb987@876sdj))&ZZ 
+  AvailabilityZones: akshay
+  RemoteAccessCIDR:  0.0.0.0/0
+  NotificationEmail: akshay@jain.com
+  AdminFirstName: akshay
+  AdminLastName: akshay
